@@ -1,0 +1,12 @@
+{
+  "name": "aircanvas",
+  "version": "1.0.0",
+  "description": "AI hand drawing app using Python, OpenCV, and MediaPipe",
+  "main": "main.py",
+  "scripts": {
+    "start": "py -3 main.py",
+    "run": "py -3 main.py"
+  },
+  "author": "",
+  "license": "MIT"
+}
